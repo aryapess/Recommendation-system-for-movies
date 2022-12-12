@@ -1,4 +1,5 @@
-# Recommendation System for Movies
+# Recommendation System for Movies (Team: apessian-dperuman-mpendyal)
+
 
 - In this project we are using Content-Based filtering: They recommend things depending on one. This method recommends movies based on genre, director, description, actors, etc. If a person enjoyed one item, they would also appreciate a comparable item. Dataset we are using this project is provided by MovieLens. We mainly work on recommendation part and prediction part. We are using similarity based and association filtering for recommendation and after comparison of models by pycaret library, we will be using tuned Gradient Boosting Regressor for prediction of ‘vote_average’.
 
